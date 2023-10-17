@@ -58,7 +58,7 @@ def scrape_product_listings(url, num_pages):
 # Amazon URL for bags
 url = "https://www.amazon.in/s?k=bags&crid=2M096C61O4MLT&qid=1653308124&sprefix=ba%2Caps%2C283&ref=sr_pg_1"
 
-# to limit scraping to 20 pages
+# Number of pages to scrape (20 pages)
 num_pages = 20
 
 # Scrape product listings
