@@ -71,3 +71,4 @@ with open("product_listings.csv", "w", newline="", encoding="utf-8") as csvfile:
     csv_writer.writerows(product_data)
 
 print("Part 1: Product listings scraped and saved to product_listings.csv")
+
